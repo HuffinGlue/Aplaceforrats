@@ -1,0 +1,8 @@
+/* Custom CSS for the fade-in effect */
+.lazy {
+    transition: opacity 0.3s ease-in-out;
+    opacity: 0;
+}
+.loaded {
+    opacity: 1;
+}
