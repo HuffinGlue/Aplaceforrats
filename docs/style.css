@@ -6,3 +6,17 @@
 .loaded {
     opacity: 1;
 }
+/* New styles for the image containers */
+.image-container {
+    max-width: 90vw; /* This sets the maximum width to 90% of the viewport width */
+    height: auto; /* Maintains the aspect ratio */
+    margin: 0 auto; /* Centers the container horizontally */
+    margin-bottom: 2rem; /* Adds space between images */
+}
+
+/* Adjust the image within the container */
+.image-container img {
+    width: 100%; /* Makes the image fill its container */
+    height: auto; /* Maintains the image's aspect ratio */
+    display: block; /* Removes any extra space below the image */
+}
