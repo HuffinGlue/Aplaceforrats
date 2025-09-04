@@ -11,7 +11,7 @@
     max-width: 90vw; /* This sets the maximum width to 90% of the viewport width */
     height: auto; /* Maintains the aspect ratio */
     margin: 0 auto; /* Centers the container horizontally */
-    margin-bottom: 2rem; /* Adds space between images */
+    margin-bottom: 5vw; /* Adds space between images */
 }
 
 /* Adjust the image within the container */
