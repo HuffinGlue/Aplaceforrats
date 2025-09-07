@@ -6,19 +6,20 @@
 .loaded {
     opacity: 1;
 }
-/* this is the gothic font*/
-.jacquard-12-regular {
+.jacquard-font {
   font-family: "Jacquard 12", system-ui;
-  font-weight: 800; 
-  font-style: normal; 
-  font-size: 72px; /* This will make the text bigger */
+  /* Since this font only has one weight, you can omit font-weight and font-style, as they'll default to 'normal' anyway. */
 }
-.jacquard-12-regular2 {
-  font-family: "Jacquard 12", system-ui;
-  font-weight: 800; 
-  font-style: normal; 
+
+/* Specific styles for the main heading */
+.main-title {
+  font-size: 72px;
+}
+
+/* Specific styles for the subheading */
+.subheading {
   font-size: 36px;
-  color: yellow;  
+  color: yellow;
 }
 
 /* New styles for the image containers */
