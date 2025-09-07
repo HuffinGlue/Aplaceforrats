@@ -6,6 +6,12 @@
 .loaded {
     opacity: 1;
 }
+.jacquard-12-regular {
+  font-family: "Jacquard 12", system-ui;
+  font-weight: 800;
+  font-style: normal;
+}
+
 /* New styles for the image containers */
 .image-container {
     max-width: 90vw; /* This sets the maximum width to 90% of the viewport width */
