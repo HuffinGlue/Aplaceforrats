@@ -13,6 +13,12 @@
   font-style: normal; 
   font-size: 72px; /* This will make the text bigger */
 }
+.jacquard-12-regular2 {
+  font-family: "Jacquard 12", system-ui;
+  font-weight: 800; 
+  font-style: normal; 
+  font-size: 36px; /* This will make the text bigger */
+}
 
 /* New styles for the image containers */
 .image-container {
