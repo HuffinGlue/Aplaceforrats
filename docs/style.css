@@ -36,3 +36,17 @@
     height: auto; /* Maintains the image's aspect ratio */
     display: block; /* Removes any extra space below the image */
 }
+
+/* New style for Eephus/Gothic titles */
+.gothic-font {
+  font-family: "Almendra", serif;
+  font-weight: 700;
+}
+
+/* Optional: Make the Eephus title pop a bit more since it's a metal band */
+.eephus-title {
+  font-size: 8rem;
+  line-height: 1;
+  letter-spacing: -2px;
+  text-transform: uppercase;
+}
