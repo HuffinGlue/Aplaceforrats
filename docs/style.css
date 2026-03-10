@@ -51,5 +51,20 @@
   text-transform: uppercase;
 }
 
+/* Ensure the header spans the full viewport width and stays on top */
+header {
+    width: 100%;
+    background-color: #000;
+    margin: 0; /* Removes any default spacing */
+    border-bottom: 2px solid #111; /* Optional: adds a subtle line to separate it from the rat background */
+}
+
+/* Update the body to ensure no gaps at the top */
+body {
+    margin: 0;
+    padding: 0;
+    background: #000 url('ratback.jpg') repeat fixed;
+}
+
 /* backgeround image */
 body { background: #000 url('ratback.jpg') repeat fixed; }
