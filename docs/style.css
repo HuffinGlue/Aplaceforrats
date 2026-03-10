@@ -60,15 +60,19 @@ header {
     border-bottom: 2px solid #111; /* Optional: adds a subtle line to separate it from the rat background */
 }
 
-/* Update the body to ensure no gaps at the top */
-body {
+/* The default background for your main page */
+.body-rats { 
     margin: 0;
     padding: 0;
-    background: #000 url('images/ratback.jpg') repeat fixed;
+    background: #000 url('ratback.jpg') repeat fixed; 
 }
 
-/* background image */
-body { background: #000 url('images/ratback.jpg') repeat fixed; }
+/* The specific background for the Eephus page */
+.body-eephus { 
+    margin: 0;
+    padding: 0;
+    background: #000 url('eephusBLANK.jpg') repeat fixed; 
+}
 
 /* foot foot */
 footer {
