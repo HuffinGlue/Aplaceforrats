@@ -81,4 +81,5 @@ footer {
 /* Removes the rounded corners on mobile for a sharper "metal" look */
 input, button {
     border-radius: 0 !important;
+    color: yellow
 }
