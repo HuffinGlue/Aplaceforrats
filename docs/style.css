@@ -67,5 +67,18 @@ body {
     background: #000 url('images/ratback.jpg') repeat fixed;
 }
 
-/* backgeround image */
+/* background image */
 body { background: #000 url('images/ratback.jpg') repeat fixed; }
+
+/* foot foot */
+footer {
+    width: 100%;
+    background-color: #000;
+    position: relative;
+    z-index: 10;
+}
+
+/* Removes the rounded corners on mobile for a sharper "metal" look */
+input, button {
+    border-radius: 0 !important;
+}
