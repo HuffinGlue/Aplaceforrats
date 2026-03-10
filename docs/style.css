@@ -50,3 +50,6 @@
   letter-spacing: -2px;
   text-transform: uppercase;
 }
+
+/* backgeround image */
+body { background: #000 url('ratback.jpg') repeat fixed; }
