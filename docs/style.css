@@ -14,13 +14,13 @@
 /* Specific styles for the main heading */
 .main-title {
   font-size: 72px;
-  color: yellow;  
+  color: black;  
 }
 
 /* Specific styles for the subheading */
 .subheading {
   font-size: 36px;
-  color: yellow;
+  color: black;
 }
 
 /* New styles for the image containers */
