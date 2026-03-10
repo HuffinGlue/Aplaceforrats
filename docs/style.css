@@ -63,8 +63,8 @@ header {
 body {
     margin: 0;
     padding: 0;
-    background: #000 url('ratback.jpg') repeat fixed;
+    background: #000 url('images/ratback.jpg') repeat fixed;
 }
 
 /* backgeround image */
-body { background: #000 url('ratback.jpg') repeat fixed; }
+body { background: #000 url('images/ratback.jpg') repeat fixed; }
