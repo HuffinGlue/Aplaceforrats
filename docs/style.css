@@ -47,6 +47,7 @@
 /* Optional: Make the Eephus title pop a bit more since it's a metal band */
 .eephus-title {
   font-size: 8rem;
+    color: black;
   line-height: 1;
   letter-spacing: -2px;
   text-transform: uppercase;
