@@ -71,7 +71,7 @@ header {
 .body-eephus { 
     margin: 0;
     padding: 0;
-    background: #000 url('images/eephusBLANK.jpg') repeat fixed; 
+    background: #000 url('images/eephusBLANK.jpg'); 
 }
 
 /* foot foot */
