@@ -72,13 +72,13 @@ header {
 .body-eephus { 
     margin: 0;
     padding: 0;
-    background: #000 url('images/eephusBLANK.jpg'); 
+    background: #000;
 }
 
 /* foot foot */
 footer {
     width: 100%;
-    background-color: #000;
+    background-color: yellow;
     position: relative;
     z-index: 10;
 }
