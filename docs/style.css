@@ -56,7 +56,7 @@
 /* Ensure the header spans the full viewport width and stays on top */
 header {
     width: 100%;
-    background-color: yellow;
+    background-color: red;
     margin: 0; /* Removes any default spacing */
     border-bottom: 2px solid #111; /* Optional: adds a subtle line to separate it from the rat background */
 }
@@ -78,7 +78,7 @@ header {
 /* foot foot */
 footer {
     width: 100%;
-    background-color: yellow;
+    background-color: red;
     position: relative;
     z-index: 10;
 }
